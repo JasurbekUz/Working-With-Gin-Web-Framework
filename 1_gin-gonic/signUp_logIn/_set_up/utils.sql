@@ -1,3 +1,6 @@
+-- bazaga birmarta yozilgan ma'lumot ikkincha marta bazaga yozilmasligi 
+-- trigger ornatamiz!!!
+
 create or replace function users_trigger_func() returns trigger language plpgsql as $$
 
   declare
