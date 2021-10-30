@@ -1,3 +1,2 @@
-# Working-With-Go-Web-Frameworks
-### 1 Gorilla Mux
-### 2 Gin
+# Working-With-gin-gonic
+### Gin is a HTTP web framework written in Go (Golang)
